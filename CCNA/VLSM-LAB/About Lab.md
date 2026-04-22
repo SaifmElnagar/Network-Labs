@@ -20,6 +20,9 @@ Test end-to-end connectivity between the different LANs
 📚 Background  
 This lab demonstrates how multiple LANs at two different locations can communicate through routers over a point-to-point WAN connection.
 
+<img width="1631" height="701" alt="image" src="https://github.com/user-attachments/assets/8d6142fb-3da1-4437-a56c-6a9b775b0346" />
+
+
 The topology represents two sites:
 
 - **Cairo**
