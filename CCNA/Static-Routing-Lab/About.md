@@ -17,6 +17,9 @@ Verify end-to-end communication between the two LANs
 📚 Background  
 This lab focuses on building connectivity between two remote LANs through **three routers** using **static routing**.
 
+
+<img width="1407" height="469" alt="image" src="https://github.com/user-attachments/assets/b181f186-2bc6-480b-a282-ccbb99bed290" />
+
 The topology contains:
 
 - One LAN on the left side using network **10.0.0.0/8**
@@ -133,5 +136,5 @@ By completing this lab, you gain a better understanding of how routers make forw
 
 👨‍💻 Author  
 Saif Elnagar  
-Electronics & Communication Engineering Student  
+Electronics & Communication Engineering Graduate  
 Network & Cloud Engineer 🚀
