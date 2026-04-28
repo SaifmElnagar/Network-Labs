@@ -125,8 +125,6 @@ Successful results indicate that:
 - Verify routing behavior using ping tests
 - Build a strong routing foundation before moving to dynamic protocols
 
-📂 Lab Files  
-📄 static_routing_three_routers.pkt
 
 🚀 Conclusion  
 This lab provides a practical introduction to **static routing in a multi-router environment**. It shows how devices in different LANs can communicate only after correct IP addressing and manual route configuration are applied.
