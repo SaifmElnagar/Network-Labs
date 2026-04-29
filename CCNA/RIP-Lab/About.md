@@ -25,6 +25,9 @@ In a routed network, each router automatically knows only its **directly connect
 
 In this lab, **RIP (Routing Information Protocol)** is used to allow the routers to exchange routing information and learn about remote networks automatically.
 
+<img width="1550" height="692" alt="image" src="https://github.com/user-attachments/assets/b523399e-acd5-47d4-9d4b-dfa7c2fe0436" />
+
+
 The topology contains **three routers** connected through two serial links, with each router serving one local LAN:
 
 - **R1 LAN** → 192.168.1.0/24
